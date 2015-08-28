@@ -22,7 +22,7 @@ public class HelloWorld {
     public static void main(String[] args) {
 		Date date = new Date();
         System.out.println("Hello, World");
-		System.out.println(date.toSting());
+		System.out.println(date.toString());
 	}
 }
 // No newline at end of file
