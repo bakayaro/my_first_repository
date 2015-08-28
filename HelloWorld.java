@@ -1,5 +1,5 @@
-/******************************************************************************
- *  Compilation:  javac HelloWorld.java
+ /******************************************************************************
+ * compilation:  javac HelloWorld.java
  *  Execution:    java HelloWorld
  *
  *  Prints "Hello, World". By tradition, this is everyone's first program.
@@ -23,3 +23,4 @@ public class HelloWorld {
     }
 
 }
+// No newline at end of file
