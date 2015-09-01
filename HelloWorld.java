@@ -42,7 +42,7 @@ public class HelloWorld {
 	      	empTwo.empDesignation("Software Engineer");
 	      	empTwo.empSalary(500);
 	      	empTwo.printEmployee();
-	      	System.out.println("End of Program");
+	      	System.out.println("End of Program!");
 	}
 }
 // No newline at end of file
