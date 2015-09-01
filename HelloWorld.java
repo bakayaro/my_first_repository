@@ -23,7 +23,7 @@ public class HelloWorld {
     public static void main(String[] args) {
 		Date date = new Date();
 		Random randomGenerator = new Random();
-        	System.out.println("Hello, World!")
+        	System.out.println("Hello, World!");
 		System.out.println(date.toString());
 		int number = randomGenerator.nextInt(100);
 		System.out.println(number);
