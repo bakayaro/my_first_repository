@@ -25,7 +25,7 @@ public class HelloWorld {
 		Random randomGenerator = new Random();
         	System.out.println("Hello, World!");
 		System.out.println(date.toString());
-		int number = randomGenerator.nextInt(100);
+		int number = randomGenerator.nextInt(50);
 		System.out.println(number);
 		System.out.println("End of Program");
 		
