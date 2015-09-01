@@ -38,7 +38,7 @@ public class HelloWorld {
 	      	empOne.empSalary(1000);
 	      	empOne.printEmployee();
 	
-		empTwo.empAge(22);
+		empTwo.empAge(21);
 	      	empTwo.empDesignation("Software Engineer");
 	      	empTwo.empSalary(500);
 	      	empTwo.printEmployee();
