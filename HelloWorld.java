@@ -27,7 +27,6 @@ public class HelloWorld {
 		System.out.println(date.toString());
 		int number = randomGenerator.nextInt(50);
 		System.out.println(number);
-		System.out.println("End of Program");
 		
 		/* Create two objects using constructor */
 	       	Employee empOne = new Employee("James Smith");
@@ -43,6 +42,7 @@ public class HelloWorld {
 	      	empTwo.empDesignation("Software Engineer");
 	      	empTwo.empSalary(500);
 	      	empTwo.printEmployee();
+	      	System.out.println("End of Program");
 	}
 }
 // No newline at end of file
