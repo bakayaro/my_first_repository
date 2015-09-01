@@ -33,7 +33,7 @@ public class HelloWorld {
 	      	Employee empTwo = new Employee("Mary Anne");
 	
 	      	// Invoking methods for each object created
-	      	empOne.empAge(26);
+	      	empOne.empAge(30);
 	      	empOne.empDesignation("Senior Software Engineer");
 	      	empOne.empSalary(1000);
 	      	empOne.printEmployee();
