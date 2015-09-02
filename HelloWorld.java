@@ -23,9 +23,9 @@ public class HelloWorld {
     public static void main(String[] args) {
 		Date date = new Date();
 		Random randomGenerator = new Random();
-        	System.out.println("Hello, World!");
+        	System.out.println("Hello, World!!!");
 		System.out.println(date.toString());
-		int number = randomGenerator.nextInt(50);
+		int number = randomGenerator.nextInt(25);
 		System.out.println(number);
 		
 		/* Create two objects using constructor */
@@ -33,7 +33,7 @@ public class HelloWorld {
 	      	Employee empTwo = new Employee("Mary Anne");
 	
 	      	// Invoking methods for each object created
-	      	empOne.empAge(26);
+	      	empOne.empAge(30);
 	      	empOne.empDesignation("Senior Software Engineer");
 	      	empOne.empSalary(1000);
 	      	empOne.printEmployee();
